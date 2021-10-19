@@ -64,7 +64,7 @@ webpack : 이 시스템에서 스크립트를 실행할 수 없으므로 C:\User
 
  짠 ! 해결 !
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/750295a4-636b-42b4-a6d9-d6f77bda6281/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/45534412/137932763-64138210-ff7c-4820-b9af-9f4af2fdf6a5.png)
 
 ```tsx
 타입을 지정할 수 있음
